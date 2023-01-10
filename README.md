@@ -1,8 +1,8 @@
-# DirSNIFF - A public and hidden website directory sniffer - Created with OpenAI
+# DirSNIFF - A public and hidden website directory sniffer
 
 
 ## Description 
-Sniff out and list the directories of almost any website, public and hidden!
+Sniff out and list the directories of almost any website, public and hidden! - Created with OpenAI
 
 
 ## Installation 
